@@ -17,7 +17,32 @@ The purpose of this project is to come up with ways in which to maximize profita
 
 The King County House Sales dataset contains comprehensive information about house sales, including features such as the number of bedrooms, number of bathrooms, square footage of living space in the home, number of floors in the house, how good the overall condition of the house is, overall house grade which is related to design and construction, and year when the house was built. To better understand the dataset, we will perform exploratory data analysis, examine distributions, identify correlations, and assess feature importance.
 
+**Business Understanding**
 
+The real estate agency needs to understand the relationship between various features of the houses and their sale prices in order to provide accurate advice to homeowners. By performing multiple linear regression analysis on the King County House Sales dataset, the agency can identify which home renovation factors significantly impact the sale price.
+
+**DATA CLEANING AND PREPARATION**
+
+This involves checking data to check if there exists any possible problems that makes data unsuitable for analysis.The problems may include missing data , duplicated data , handling categorical variables and obtaining the relevant subset from our dataset that are likely to have a significant impact on the target variable.Data cleaning and preparation done in our datasets include checking for missing values, dropping unnecessary columns, getting rid of duplicates,handling categorical variables and creating new dataframes that suit our study including subsetting our datasets.Each datacleaning process is described in details in each cell based on the dataset.
+
+Feature Selection:
+
+Selection of relevant features that are likely to have a significant impact on the target variable (sale price) has been done. Consider both numerical and categorical variables based on domain knowledge and correlation analysis. Drop any unnecessary or redundant columns.I will focus on a subset of the overall dataset.These features are:
+
+price: sale price which is our prediction target
+
+bedrooms: number of bed rooms in the house
+
+bathrooms: number of bathrooms in the house
+sqft_living: square footage of living space in the home
+
+sqft_lot: square footage of the lot
+
+floors: number of floors or the levels in the house
+
+waterfront: whether the house is located on a water front
+
+grade: overall house grade in relation to design and construction
 
 **Conclusion**
 
