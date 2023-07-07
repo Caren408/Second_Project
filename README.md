@@ -31,6 +31,6 @@ My third recommendation would be to attend to the grade given by King County to 
 
 **Non Technical Presentation**
 
-To access the slides,click on this link:Project.presentation
+To access the slides,click on this link:https://docs.google.com/presentation/d/1yfeCmvXbtGnaLjHyqd3uxxAc40cSm72kl9kNZZuLTaU/edit#slide=id.p
 
 
