@@ -4,7 +4,7 @@
 
 **Introduction**
 
-This project will make use of Pandas, and NumPy for the data exploration phase as well as using Matplotlib and Seaborn to form visualizations. We will then be using Scikit-Learn to model our multi-variate linear regression. We will incorporate some dummies datasets creation to deal with categorical data as well as log-transformation methodology to deal with the continuous features of the dataset.
+In this data science project, we aim to build a multiple linear regression model to predict house sale prices in King County, leveraging the King County House Sales dataset. The project's objective is to provide accurate estimates of property values to homeowners and potential buyers, enabling informed decision-making in the real estate market.
 
 **Problem Statement**
 
