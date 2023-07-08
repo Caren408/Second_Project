@@ -7,6 +7,7 @@
 In this data science project, we aim to build a multiple linear regression model to predict house sale prices in King County, leveraging the King County House Sales dataset. The project's objective is to provide accurate estimates of property values to homeowners and potential buyers, enabling informed decision-making in the real estate market.
 
 **Problem Statement**
+
 In this data science project, we aim to build a multiple linear regression model to predict house sale prices in King County, leveraging the King County House Sales dataset. The project's objective is to provide accurate estimates of property values to homeowners and potential buyers, enabling informed decision-making in the real estate market.
 
 **Main Objective**
@@ -21,7 +22,7 @@ The King County House Sales dataset contains comprehensive information about hou
 
 The real estate agency needs to understand the relationship between various features of the houses and their sale prices in order to provide accurate advice to homeowners. By performing multiple linear regression analysis on the King County House Sales dataset, the agency can identify which home renovation factors significantly impact the sale price.
 
-**DATA CLEANING AND PREPARATION**
+**Data Cleaning and  Preparation**
 
 This involves checking data to check if there exists any possible problems that makes data unsuitable for analysis.The problems may include missing data , duplicated data , handling categorical variables and obtaining the relevant subset from our dataset that are likely to have a significant impact on the target variable.Data cleaning and preparation done in our datasets include checking for missing values, dropping unnecessary columns, getting rid of duplicates,handling categorical variables and creating new dataframes that suit our study including subsetting our datasets.Each datacleaning process is described in details in each cell based on the dataset.
 
