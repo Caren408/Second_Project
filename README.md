@@ -8,6 +8,7 @@
 In this data science project, we aim to build a multiple linear regression model to predict house sale prices in King County, leveraging the King County House Sales dataset. The project's objective is to provide accurate estimates of property values to homeowners and potential buyers, enabling informed decision-making in the real estate market.
 
 **Problem Statement**
+
 -How can we make sure to maximize profitability when attempting to sell a home in King County
 -Seach for auctionable insights that will serve to guide the sellers
 -Develop an understanding of the dynamics of the house market which will drive calculated decisions
@@ -18,19 +19,19 @@ The purpose of this project is to come up with ways in which to maximize profita
 
 **Experimental Design**
 
-**.**Data Collection
+**.** Data Collection
 
-**.**Read and check data
+**.** Read and check data
 
-**.**Cleaning the data
+**.** Cleaning the data
 
-**.**Exploratory Data Anaylsis
+**.** Exploratory Data Anaylsis
 
-**.**Modelling
+**.** Modelling
 
-**.**Conclusions 
+**.** Conclusions 
 
-**.**Recommendations
+**.** Recommendations
 
 **Data Understanding**
 
@@ -64,6 +65,7 @@ waterfront: whether the house is located on a water front
 grade: overall house grade in relation to design and construction
 
 **Conclusion**
+
 Houses that are situated at the waterfront and have luxurious features will have their prices increasing prices  substantial amount
 A larger living space in the home tends to be associated with higher prices.Buyers typically consider more square footage as desirable and are willing to pay a premium for it.Thus a larger living space is an essential requirement
 
