@@ -69,6 +69,7 @@ grade: overall house grade in relation to design and construction
 **Conclusion**
 
 Houses that are situated at the waterfront and have luxurious features will have their prices increasing prices  substantial amount
+
 A larger living space in the home tends to be associated with higher prices.Buyers typically consider more square footage as desirable and are willing to pay a premium for it.Thus a larger living space is an essential requirement
 
 
