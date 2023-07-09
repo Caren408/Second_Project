@@ -1,6 +1,6 @@
 # Second_Project
 
-**Building a Multi-Variate Linear Regression Model using King County,WHouse Prices Dataset**
+**Building a Multi-Variate Linear Regression Model using King County,House Prices Dataset**
 
 
 **Introduction**
