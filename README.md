@@ -1,11 +1,7 @@
 # Second_Project
 
-**Data Collection
-Read and check data
-Cleaning the data
-Exploratory Data Anaylsis
-Modelling
-Conclusions and Recommendations**
+**Building a Multi-Variate Linear Regression Model using King County,WHouse Prices Dataset**
+
 
 **Introduction**
 
@@ -14,10 +10,10 @@ In this data science project, we aim to build a multiple linear regression model
 **Problem Statement**
 
 
-
 **Main Objective**
 
 The purpose of this project is to come up with ways in which to maximize profitability for sellers attempting to sell a home in King County,WA. We will search for actionable insights that will serve guidance to these sellers, but we need a thorough understanding of the dynamics of the housing market in order to drive our calculated decisions.
+
 **Experimental Design**
 **.**Data Collection
 **.**Read and check data
