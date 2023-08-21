@@ -21,19 +21,19 @@ The purpose of this project is to come up with ways in which to maximize profita
 
 **Experimental Design**
 
-**.** Data Collection
+* Data Collection
 
-**.** Read and check data
+* Read and check data
 
-**.** Cleaning the data
+* Cleaning the data
 
-**.** Exploratory Data Anaylsis
+* Exploratory Data Anaylsis
 
-**.** Modelling
+* Modelling
 
-**.** Conclusions 
+* Conclusions 
 
-**.** Recommendations
+* Recommendations
 
 **Data Understanding**
 
