@@ -9,11 +9,11 @@ In this data science project, we aim to build a multiple linear regression model
 
 **Problem Statement**
 
--How can we make sure to maximize profitability when attempting to sell a home in King County
+* How can we make sure to maximize profitability when attempting to sell a home in King County
 
--Seach for auctionable insights that will serve to guide the sellers
+* Seach for auctionable insights that will serve to guide the sellers
 
--Develop an understanding of the dynamics of the house market which will drive calculated decisions
+* Develop an understanding of the dynamics of the house market which will drive calculated decisions
 
 **Main Objective**
 
